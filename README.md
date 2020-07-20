@@ -1,2 +1,3 @@
 # hello-world
-first real repo
+
+Second month of learning programming, now I'm going to get serious. 
